@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Employee List (AJAX)";
+}
+
+<h2 class="text-center">Employee List</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success">+ Add New</a>
+</p>
+
+<div id="employeeTableContainer">
+    Loading employees...
+</div>
+
+<script src="~/Scripts/jquery-3.6.0.min.js"></script>
+
+<script>
+    function loadEmployeeTable() {
+        $.ajax({
+            url: '/Employee/GetEmployeeTable',
+            type: 'GET',
+            success: function (data) {
+                $('#employeeTableContainer').html(data);
+            },
+            error: function () {
+                $('#employeeTableContainer').html('<p>Error loading table</p>');
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        loadEmployeeTable(); // Call on page load
+    });
+</script>
+
