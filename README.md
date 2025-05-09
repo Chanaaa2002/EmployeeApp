@@ -26,12 +26,7 @@ A simple ASP.NET MVC 5 web application for managing employees with CRUD function
 
 ---
 
-## 📷 Screenshots
 
-![Dashboard Screenshot](https://your-image-link.com)  
-*Replace with actual screenshot URLs if needed*
-
----
 
 ## ⚙️ How to Run the Project
 
