@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Average Age Chart";
+}
+
+<h2 class="text-center">Average Employee Age by Department</h2>
+
+<div id="barchart" style="width: 1000px; height: 500px; margin: auto;"></div>
+
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    google.charts.load('current', { packages: ['corechart'] });
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+        $.ajax({
+            url: '@Url.Action("GetAverageAgeChartData", "Employee")',
+            type: 'GET',
+            success: function (data) {
+                var chartData = [['Department', 'Average Age']];
+                $.each(data, function (i, item) {
+                    chartData.push([item.Department, item.AverageAge]);
+                });
+
+                var dataTable = google.visualization.arrayToDataTable(chartData);
+
+                var options = {
+                    title: 'Average Age by Department',
+                    hAxis: { title: 'Department' },
+                    vAxis: { title: 'Average Age' },
+                    bars: 'vertical',
+                    legend: { position: 'none' }
+                };
+
+                var chart = new google.visualization.ColumnChart(document.getElementById('barchart'));
+                chart.draw(dataTable, options);
+            },
+            error: function () {
+                alert("Error loading bar chart data.");
+            }
+        });
+    }
+</script>

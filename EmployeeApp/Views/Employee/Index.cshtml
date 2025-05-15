@@ -7,12 +7,14 @@
 <p>
     <a href="@Url.Action("Create")" class="btn btn-success">+ Add New</a>
 </p>
+<input type="text" id="searchBox" class="form-control mb-3" placeholder="Search by name or department..." />
+
 
 <div id="employeeTableContainer">
     Loading employees...
 </div>
 
-<script src="~/Scripts/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script>
     function loadEmployeeTable() {
@@ -22,14 +24,37 @@
             success: function (data) {
                 $('#employeeTableContainer').html(data);
             },
-            error: function () {
-                $('#employeeTableContainer').html('<p>Error loading table</p>');
+            error: function (xhr) {
+                $('#employeeTableContainer').html('<p>Error loading table: ' + xhr.status + '</p>');
+                console.error("Error:", xhr);
             }
         });
     }
 
     $(document).ready(function () {
-        loadEmployeeTable(); // Call on page load
+        loadEmployeeTable();
+    });
+
+    function loadEmployeeTable(search = '') {
+        $.ajax({
+            url: '@Url.Action("SearchEmployees", "Employee")',
+            type: 'GET',
+            data: { searchTerm: search },
+            success: function (data) {
+                $('#employeeTableContainer').html(data);
+            },
+            error: function () {
+                $('#employeeTableContainer').html('<p>Error loading table.</p>');
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        loadEmployeeTable();
+
+        $('#searchBox').on('input', function () {
+            var keyword = $(this).val();
+            loadEmployeeTable(keyword);
+        });
     });
 </script>
-

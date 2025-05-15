@@ -123,6 +123,39 @@ namespace EmployeeApp.Controllers
         }
 
 
+        public JsonResult GetChartData()
+        {
+            var groupedData = db.Employees
+                .GroupBy(e => e.Department)
+                .Select(g => new { Department = g.Key, Count = g.Count() })
+                .ToList();
+
+            return Json(groupedData, JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult GetAverageAgeChartData()
+        {
+            var result = db.Employees
+                .GroupBy(e => e.Department)
+                .Select(g => new
+                {
+                    Department = g.Key,
+                    AverageAge = g.Average(e => e.Age)
+                })
+                .ToList();
+
+            return Json(result, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult SearchEmployees(string searchTerm)
+        {
+            var results = db.Employees
+                .Where(e => e.Name.Contains(searchTerm) || e.Department.Contains(searchTerm))
+                .ToList();
+
+            return PartialView("EmployeeTable", results);
+        }
+
 
         protected override void Dispose(bool disposing)
         {
@@ -132,5 +165,17 @@ namespace EmployeeApp.Controllers
             }
             base.Dispose(disposing);
         }
+
+        public ActionResult Dashboard()
+        {
+            return View();
+        }
+
+        public ActionResult AgeChart()
+        {
+            return View();
+        }
+
+
     }
 }

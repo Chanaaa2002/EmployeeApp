@@ -7,23 +7,39 @@
       "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\employee\\emplyeetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\emplyeetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\employee\\agechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\agechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\dinuka.j\\source\\repos\\employeeapp\\employeeapp\\views\\employee\\employeetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\employeetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F185B503-8E54-46B8-9E3B-2557E241A959}|EmployeeApp\\EmployeeApp.csproj|C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\employeeapp\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,8 +82,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgeChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\AgeChart.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\AgeChart.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\AgeChart.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\AgeChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T07:01:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Dashboard.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T06:58:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T05:37:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T06:28:20.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwv60AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:34:36.67Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -87,33 +164,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmplyeeTable.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\EmplyeeTable.cshtml",
-              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\EmplyeeTable.cshtml",
-              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\EmplyeeTable.cshtml",
-              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\EmplyeeTable.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T09:58:26.272Z",
+              "WhenOpened": "2025-05-15T07:02:48.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Details.cshtml",
-              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Details.cshtml",
-              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:39:55.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Create.cshtml",
@@ -121,50 +185,36 @@
               "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:38:33.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T05:37:09.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T06:38:33.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EmployeeApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T06:28:20.331Z"
+              "WhenOpened": "2025-05-06T06:39:55.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:34:36.67Z",
+              "DocumentIndex": 7,
+              "Title": "EmployeeTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\EmployeeTable.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\EmployeeTable.cshtml",
+              "ToolTip": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\EmployeeTable.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employee\\EmployeeTable.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T06:43:57.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\App_Start\\RouteConfig.cs",
@@ -172,12 +222,11 @@
               "RelativeToolTip": "EmployeeApp\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T10:16:29.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T10:16:29.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Edit.cshtml",
@@ -189,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Models\\Employee.cs",
@@ -201,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employee\\Delete.cshtml",
@@ -213,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "202505051127188_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Migrations\\202505051127188_InitialCreate.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Migrations\\202505051127188_InitialCreate.cs",
@@ -225,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Migrations\\Configuration.cs",
@@ -237,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Web.config",
               "RelativeDocumentMoniker": "EmployeeApp\\Web.config",
@@ -250,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "C:\\Users\\dinuka.j\\source\\repos\\EmployeeApp\\EmployeeApp\\Models\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "EmployeeApp\\Models\\EmployeeContext.cs",

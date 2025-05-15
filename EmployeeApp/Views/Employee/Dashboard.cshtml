@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2 class="text-center">Employee Distribution by Department</h2>
+
+<!-- Chart Container -->
+<div id="piechart" style="width: 900px; height: 500px; margin: auto;"></div>
+
+<!-- Load Google Charts from Google -->
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<!-- jQuery for AJAX -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    // 1. Load Google Charts Library
+    google.charts.load('current', { 'packages': ['corechart'] });
+
+    // 2. When ready, call this function
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+        // 3. Use AJAX to get JSON data from your C# controller
+        $.ajax({
+            url: '@Url.Action("GetChartData", "Employee")',
+            type: 'GET',
+            success: function (data) {
+                // 4. Convert the JSON to chart format
+                var chartData = [['Department', 'Count']];
+                $.each(data, function (i, item) {
+                    chartData.push([item.Department, item.Count]);
+                });
+
+                // 5. Use Google to create chart
+                var dataTable = google.visualization.arrayToDataTable(chartData);
+                var options = {
+                    title: 'Employees by Department',
+                    is3D: true
+                };
+
+                // 6. Draw chart
+                var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+                chart.draw(dataTable, options);
+            },
+            error: function () {
+                alert(" Error loading chart data.");
+            }
+        });
+    }
+</script>
